@@ -1,31 +1,60 @@
-## Hi 👋, I'm Amina  
-💻 Full-Stack Developer | 🇲🇦 From Morocco
+###  
+<h1 align="center">Hi there, I'm Ameeena 👋</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKP3p6cHYgypXHG/giphy.gif" width="220" />
+</p>
+
+<p align="center">
+  👩‍💻 Full-Stack Developer & Tech Enthusiast from Morocco 🇲🇦  
+  <br />
+  🌱 Learning Vue.js, React & Laravel  
+  <br />
+  🎮 Exploring Game Development & Creative Code  
+</p>
 
 ---
 
-🌱 I’m currently learning **Vue.js**, **Python**, **React.js**, **Laravel** and exploring the world of **AI** and **game development**.  
-💬 Ask me about **web development**, **front-end frameworks**, or **creative coding**.  
-📫 How to reach me: **aminaouaqqaourahou@gmail.com**
+### 💌 Let's Connect:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ameena-ou" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="https://www.instagram.com/_ameeeeeena_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/oneameeeena" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" />
+  </a>
+</p>
+
+📫 **Email:** ouaqouarhou.amina@gmail.com
 
 ---
 
-### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ameena-ou)  
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge)](https://www.instagram.com/_ameeeeeena_)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/oneameeeena)
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/Vue.js-42b883?logo=vue.js&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square" />
+</p>
 
 ---
 
-### 🛠️ Languages and Tools:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
-![Php](https://img.shields.io/badge/php-FF6384?logo=php&logoColor=white&style=flat)
-![Sql](https://img.shields.io/badge/sql-FF6384?logo=sql&logoColor=white&style=flat)
+### ✨ My Dev Vibe
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/IeRdg7tOqfqEo/giphy.gif" width="180" />
+</p>
 
-> 💡 *“Code is like poetry – when it flows, it's beautiful.”*
+<p align="center">
+  <em>“I write code like I play a game — focused, creative, and always leveling up.” 💫</em>
+</p>
