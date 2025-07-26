@@ -1,18 +1,17 @@
 ###  
-<h1 align="center">Hi there, I'm Ameeena 👋</h1>
+<h1>Hi there, I'm Ameeena 👋</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKP3p6cHYgypXHG/giphy.gif" width="220" />
-</p>
 
-<p align="center">
-  👩‍💻 Full-Stack Developer & Tech Enthusiast from Morocco 🇲🇦  
-  <br />
-  🌱 Learning Vue.js, React & Laravel  
+ 💻 Full-Stack Developer | 🇲🇦 From Morocco
+
+
+
+🌱 I’m currently learning **Vue.js**, **Python**, **React.js**, **laravel**  and exploring the world of **AI** and **game development**.  
+💬 Ask me about **web development**, **front-end frameworks**, or **creative coding**.   
   <br />
   🎮 Exploring Game Development & Creative Code  
-</p>
 
+  
 ---
 
 ### 💌 Let's Connect:
@@ -51,10 +50,12 @@
 
 ### ✨ My Dev Vibe
 
+
+<h2><p align="center">
+  <em>“I write code like I play a game — focused, creative, and always leveling up.” 💫</em>
+</p></h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/IeRdg7tOqfqEo/giphy.gif" width="180" />
+<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/d74db213-b560-4292-809b-7e9630d3f71b" />
 </p>
 
-<p align="center">
-  <em>“I write code like I play a game — focused, creative, and always leveling up.” 💫</em>
-</p>
+
