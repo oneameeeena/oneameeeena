@@ -28,7 +28,7 @@
   </a>
 </p>
 
-📫 **Email:** ouaqouarhou.amina@gmail.com
+📫 **Email:** aminaouaqqaourahou@gmail.com
 
 ---
 
