@@ -23,8 +23,8 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
-![Php](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white&style=flat)
-![Sql](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white&style=flat)
+![Php](https://img.shields.io/badge/php-FF6384?logo=php&logoColor=white&style=flat)
+![Sql](https://img.shields.io/badge/sql-FF6384?logo=sql&logoColor=white&style=flat)
 
 ---
 
