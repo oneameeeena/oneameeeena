@@ -3,9 +3,9 @@
 
 ---
 
-🌱 I’m currently learning **Vue.js**, **Python**, and exploring the world of **AI** and **game development**.  
+🌱 I’m currently learning **Vue.js**, **Python**, **React.js**, **Laravel** and exploring the world of **AI** and **game development**.  
 💬 Ask me about **web development**, **front-end frameworks**, or **creative coding**.  
-📫 How to reach me: **ouaqouarhou.amina@gmail.com**
+📫 How to reach me: **aminaouaqqaourahou@gmail.com**
 
 ---
 
@@ -23,7 +23,8 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white&style=flat)
+![Php](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white&style=flat)
+![Sql](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white&style=flat)
 
 ---
 
