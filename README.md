@@ -54,8 +54,6 @@
 <h2><p align="center">
   <em>“I write code like I play a game — focused, creative, and always leveling up.” 💫</em>
 </p></h2>
-<p align="center">
-<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/d74db213-b560-4292-809b-7e9630d3f71b" />
-</p>
+
 
 
