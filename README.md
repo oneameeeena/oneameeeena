@@ -1,59 +1,130 @@
-###  
-<h1>Hi there, I'm Ameeena 👋</h1>
+# 👋 Hey, I'm Ameeena
 
+### Full-Stack Developer · Cybersecurity Enthusiast · AI Explorer
 
- 💻 Full-Stack Developer | 🇲🇦 From Morocco
+I'm a developer from **Morocco 🇲🇦** who enjoys turning ideas into real, useful products.
 
+Currently, I'm focused on **Full-Stack Development, Cybersecurity, AI, and modern web technologies** — while constantly learning, experimenting, and building.
 
+> **Build. Break. Learn. Secure. Repeat.**
 
-🌱 I’m currently learning **Vue.js**, **Python**, **React.js**, **laravel**  and exploring the world of **AI** and **game development**.  
-💬 Ask me about **web development**, **front-end frameworks**, or **creative coding**.   
-  <br />
-  🎮 Exploring Game Development & Creative Code  
-
-  
 ---
 
-### 💌 Let's Connect:
+## 🧠 What I'm Into
+
+* 🔐 Cybersecurity & Security Engineering
+* 🤖 Artificial Intelligence & AI-powered applications
+* 🌐 Full-Stack Web Development
+* 🧩 Creative problem solving
+* 🚀 Building products from idea → MVP
+* 🎮 Game Development & Creative Coding
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### Backend & Tools
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🛡️ STRIVOX
+
+**AI-Powered Security Investigation Assistant**
+
+A security-focused platform designed to help analysts investigate security evidence, understand threats, and generate structured incident reports.
+
+**Focus:** AI · Cybersecurity · Threat Analysis · Incident Response
+
+---
+
+### 🎓 SmartClass
+
+A digital platform focused on improving the learning and classroom experience through modern web technologies.
+
+**Focus:** Full-Stack Development · Education · Web Applications
+
+---
+
+## 🔭 Currently Learning
+
+```text
+Cybersecurity
+████████████████░░░░ 80%
+
+Artificial Intelligence
+██████████████░░░░░░ 70%
+
+React / Full-Stack
+█████████████████░░░ 85%
+
+Python
+████████████░░░░░░░░ 60%
+```
+
+---
+
+## 💡 My Developer Philosophy
+
+> I don't just want to write code.
+>
+> I want to understand **why it works, how it can break, and how to make it better.**
+
+Every project is an opportunity to learn something new.
+
+---
+
+## 📊 GitHub
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ameena-ou" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="https://www.instagram.com/_ameeeeeena_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/oneameeeena" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=oneameeeena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oneameeeena&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
-📫 **Email:** aminaouaqqaourahou@gmail.com
-
----
-
-### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
-  <img src="https://img.shields.io/badge/Vue.js-42b883?logo=vue.js&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square" />
+  <img src="https://streak-stats.demolab.com?user=oneameeeena&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### ✨ My Dev Vibe
+## 🌐 Let's Connect
 
+<p align="center">
 
-<h2><p align="center">
-  <em>“I write code like I play a game — focused, creative, and always leveling up.” 💫</em>
-</p></h2>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+<a href="mailto:amin aouaggaourahou@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+</p>
 
+---
+
+<p align="center">
+  <i>⚡ Building today. Securing tomorrow.</i>
+</p>
