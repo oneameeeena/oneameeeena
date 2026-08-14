@@ -95,16 +95,27 @@ Python
 Every project is an opportunity to learn something new.
 
 ---
-
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oneameeeena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oneameeeena&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img 
+    src="https://github-stats-extended.vercel.app/api?username=oneameeeena&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Ameeena's GitHub Stats"
+  />
+  <img 
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=oneameeeena&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+    alt="Ameeena's Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=oneameeeena&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=oneameeeena&theme=tokyonight"
+    height="180"
+    alt="Ameeena's GitHub Streak"
+  />
 </p>
 
 ---
